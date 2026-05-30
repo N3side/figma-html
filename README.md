@@ -82,7 +82,7 @@ https://aistudio.google.com/
 
 
 затем вставляем в фигму
-![](media/gif3z.gif)
+![](media/gif3.gif)
 
 ссылка на то что нейронка сверстала
 https://www.figma.com/design/c6xP7CkybNKAQi5GM1RJKR/Untitled?node-id=56-6&t=862t4U43WUo7HT8d-1
