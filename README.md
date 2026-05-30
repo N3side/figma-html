@@ -77,6 +77,10 @@ https://aistudio.google.com/
 
 ![](media/gif2.gif)
 
+!!ОБЯЗАТЕЛЬНО в options в плагине нажимаем на свитч preserver layout
+![](media/img7.png)
+
+
 затем вставляем в фигму
 ![](media/gif3z.gif)
 
