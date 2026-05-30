@@ -80,9 +80,11 @@ https://aistudio.google.com/
 !!ОБЯЗАТЕЛЬНО в options в плагине нажимаем на свитч preserver layout
 ![](media/img7.png)
 
+Ссылка на плагин: https://www.figma.com/community/plugin/1595718080286284682
+
 
 затем вставляем в фигму
-![](media/gif3z.gif)
+![](media/gif3.gif)
 
 ссылка на то что нейронка сверстала
 https://www.figma.com/design/c6xP7CkybNKAQi5GM1RJKR/Untitled?node-id=56-6&t=862t4U43WUo7HT8d-1
