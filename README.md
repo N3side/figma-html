@@ -18,7 +18,14 @@
 
 ### exportSelectedContext - "Полностью собирает весь дизайн в json"
 
-У кого не открывается консоль разраба в figma web (chrome):
+комбинации клавиш чтобы открыть консоль разраба:
+
+- ctrl+shift+i
+- f12 / fn+f12
+
+У кого не открывается консоль разраба через комбинации клавиш в figma web (если chrome):
+
+![](media/open_settings.png)
 
 ![](media/img1.png)
 
